@@ -7,3 +7,4 @@ Hello again. I am here to add in a second line. I am Wei Dai here
 
 This is hello from Ethan. I am adding a new line of code here
 
+This is hello from Jun Jie. I am adding a new line of code here.
